@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/raxityo/android-asset-generator#readme",
   "dependencies": {
-    "fs-extra": "^2.0.0",
+    "fs-extra": "^2.1.2",
     "gm": "^1.23.0"
   }
 }
